@@ -1,0 +1,30 @@
+{
+  "name": "africas-talking-ussd-tutorial",
+  "version": "1.0.0",
+  "description": "**Building an Event Registration USSD with Africa’s Talking, NodeJS, Mongo and Docker**",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IanMcbull/africas-talking-ussd-tutorial.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IanMcbull/africas-talking-ussd-tutorial/issues"
+  },
+  "homepage": "https://github.com/IanMcbull/africas-talking-ussd-tutorial#readme",
+  "dependencies": {
+    "africastalking": "^0.5.5",
+    "colors": "^1.4.0",
+    "dotenv": "^16.0.1",
+    "express": "^4.18.1",
+    "mongoose": "^6.3.3",
+    "ussd-builder": "^1.2.5"
+  }
+}
