@@ -6,4 +6,4 @@ If you're not familiar with who Africa's talking are here is a [link](https://af
 
 ## Prerequisites
 1. You'll need to have an [account](https://account.africastalking.com/) with Africa's Talking.
-1. You'll need to have an API key and a username to be able to access the service. These will provided to you once you log in to you [account](https://account.africastalking.com/)
+1. You'll need to have an API key and a username to be able to access the service. These will provided to you once you log in to your [account](https://account.africastalking.com/)
